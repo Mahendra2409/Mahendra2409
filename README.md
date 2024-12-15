@@ -1,6 +1,6 @@
-## Machine Learning 
-## 3D Modeling and animation 
-## Designing 
+## Machine Learning ✨
+## 3D Modeling and animation 🫶
+## Designing 🖌️
 
 
 <!--
