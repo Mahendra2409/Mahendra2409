@@ -1,4 +1,7 @@
-## Hi there 👋
+## Machine Learning ♥️
+## 3D Modeling and animation ♥️
+## Designing ♥️
+
 
 <!--
 **Mahendra2409/Mahendra2409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
