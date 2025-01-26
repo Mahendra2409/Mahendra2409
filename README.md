@@ -1,5 +1,6 @@
 ## Machine Learning ✨
 ## 3D Modeling and animation 🫶
+![Example Image](https://drive.google.com/file/d/11UQXyBcxx58o7e8DD2U6fvYAbJuoS5xL/view?usp=sharing "This is an example image")
 ## Designing 🖌️
 
 
