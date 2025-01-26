@@ -1,6 +1,6 @@
 ## Machine Learning ✨
 ## 3D Modeling and animation 🫶
-![Example Image](Blender Work/Procedural Organic Motion.png)
+![Metro Crowd Indicator](Blender_Work/Procedural_Organic_Motion.png)
 ## Designing 🖌️
 
 
