@@ -1,6 +1,6 @@
 ## Machine Learning ✨
 ## 3D Modeling and animation 🫶
-![Example Image](Blender Work/Procedural Organic Motion0001-0250.mkv)
+![Example Image](Blender Work/Procedural Organic Motion.png)
 ## Designing 🖌️
 
 
