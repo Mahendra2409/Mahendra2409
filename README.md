@@ -1,13 +1,17 @@
 ## Machine Learning ✨
-![Metro Crowd Indicator](Blender_Work/Machine_Learning.png)
+
 ## 3D Modeling and animation 🫶
-![Metro Crowd Indicator](Blender_Work/Procedural_Organic_Motion.png)
+
 ## Designing 🖌️
-![Metro Crowd Indicator](Blender_Work/Hard_Surface_.png)
+
 
 
 <!--
 **Mahendra2409/Mahendra2409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Metro Crowd Indicator](Blender_Work/Machine_Learning.png)
+![Metro Crowd Indicator](Blender_Work/Procedural_Organic_Motion.png)
+![Metro Crowd Indicator](Blender_Work/Hard_Surface_.png)
 
 Here are some ideas to get you started:
 
